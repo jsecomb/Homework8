@@ -13,17 +13,27 @@ inquirer
         {
             type: "input",
             message: "What is the title of your project?",
-            name: "title",
+            name: "title"
+        },
+        {
+            type: "input",
+            message: "What year did you finish your project?",
+            name: "year"
         },
         {
             type: "input",
             message: "Please describe your project",
-            name: "description",
+            name: "description"
         },
         {
             type: "input",
             message: "Please describe how to install your project",
             name: "installation"
+        },
+        {
+            type: "input",
+            message: "Please describe the testing performed on your project",
+            name: "tests"
         }
     ])
     .then(function (response) {

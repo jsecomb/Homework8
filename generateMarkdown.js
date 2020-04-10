@@ -2,7 +2,9 @@ function generateMarkdown(response, profile) {
 
 return `# ${response.title} by ${profile.data.name} (${profile.data.email})
   
-## Description: ${response.description}
+## Description: 
+
+${response.description}
 
 ---
 
@@ -17,35 +19,49 @@ return `# ${response.title} by ${profile.data.name} (${profile.data.email})
 
 ---
 
-### Istallation: ${response.installation}
+## Istallation: 
+
+${response.installation}
+
 ---
 
-### Questions:
+## Usage: 
+
+Boilerplate Usage text here
+
+---
+
+## License: 
+
+Boilerplate License text here
+
+Copyright © ${response.year} ${profile.data.name}
+
+---
+
+## Contributing:
+
+Boilerplate Contributing text here
+
+---
+
+## Resources:
+
+Boilerplate Resources text here
+
+---
+
+## Tests:
+
+${response.tests}
+
+---
+
+## Questions:
 
 If you have any questions, please contact ${profile.data.name} at ${profile.data.email};
 
-![${response.username}](${profile.data.avatar_url});
-
-`
-
+<img src="${profile.data.avatar_url}" alt="${response.username}"/>`
 }
-
-
-
-
-
-/*
-### Usage: ${reponse.usage}
----
-### License: ${response.license}
----
-### Contributing: ${response.contributing}
----
-### Resources: ${response.resources}
----
-### Tests: ${response.tests}
----
-### Questions: ${response.questions}
-*/
 
 module.exports = generateMarkdown;
