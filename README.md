@@ -8,7 +8,7 @@
 
 ## Description: 
 
-Generates a pre-formatted readme.md file with some important information already filled in.
+Generates a pre-formatted readme.md file using command prompts with some important information already inputed. Intended to make it easy to create thorough, well-formatted readme files for every Github repository.
 
 ---
 
@@ -23,7 +23,7 @@ Generates a pre-formatted readme.md file with some important information already
 
 ---
 
-## Istallation: 
+## Installation: 
 
 Instructions for installation:
 > 1. Clone Repository to folder in local machine using link: https://github.com/jsecomb/Homework8.git 
