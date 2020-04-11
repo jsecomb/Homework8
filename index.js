@@ -12,6 +12,11 @@ inquirer
         },
         {
             type: "input",
+            message: "Please enter your access token",
+            name: "accessToken"
+        },
+        {
+            type: "input",
             message: "What is the title of your project?",
             name: "title"
         },
@@ -38,8 +43,7 @@ inquirer
     ])
     .then(function (response) {
 
-        const accessToken = "940ff9b6f0d7894c3ec5225d50cbed4505a1d0db";
-        const queryUrl = `https://api.github.com/users/${response.username}?acceses_token=${accessToken}`;
+        const queryUrl = `https://api.github.com/users/${response.username}?access_token=${response.accessToken}`;
         axios.get(queryUrl).then((profile) => {
 
             console.log(profile.data);
