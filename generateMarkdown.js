@@ -1,10 +1,12 @@
 function generateMarkdown(response, profile) {
 
-return `# ${response.title} by ${profile.data.name} (${profile.data.email})
-  
+return `# ${response.title} by ${profile.data.name} 
+
 ## Description: 
 
 ${response.description}
+
+[![HitCount](http://hits.dwyl.com/{${response.username}}/{${response.title}}.svg)](http://hits.dwyl.com/{${response.username}}/{${response.title}})
 
 ---
 

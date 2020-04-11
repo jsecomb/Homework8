@@ -1,8 +1,10 @@
-# none by Julian Secomb (hoodooprojects@gmail.com)
+# homework8 by Julian Secomb (hoodooprojects@gmail.com)
   
 ## Description: 
 
-none
+An application that makes generating a professional, thorough ReadMe easier and faster.
+
+[![HitCount](http://hits.dwyl.com/{jsecomb}/{homework8}.svg)](http://hits.dwyl.com/{jsecomb}/{homework8})
 
 ---
 
@@ -19,7 +21,7 @@ none
 
 ## Istallation: 
 
-none
+Clone the repo to your machine, install dependencies using "NPM Install", run using the command "node index.js" and follow the prompts in your terminal
 
 ---
 
@@ -33,7 +35,7 @@ Boilerplate Usage text here
 
 Boilerplate License text here
 
-Copyright © none Julian Secomb
+Copyright © 2020 Julian Secomb
 
 ---
 
@@ -51,7 +53,7 @@ Boilerplate Resources text here
 
 ## Tests:
 
-none
+It works
 
 ---
 
