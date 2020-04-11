@@ -1,10 +1,12 @@
-# homework8 by Julian Secomb (hoodooprojects@gmail.com)
-  
-## Description: 
-
-An application that makes generating a professional, thorough ReadMe easier and faster.
+# homework8 by Julian Secomb 
 
 [![HitCount](http://hits.dwyl.com/{jsecomb}/{homework8}.svg)](http://hits.dwyl.com/{jsecomb}/{homework8})
+![GitHub top language](https://img.shields.io/github/languages/top/jsecomb/homework8?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jsecomb/homework8?style=flat-square)
+
+## Description: 
+
+Thing
 
 ---
 
@@ -21,7 +23,7 @@ An application that makes generating a professional, thorough ReadMe easier and 
 
 ## Istallation: 
 
-Clone the repo to your machine, install dependencies using "NPM Install", run using the command "node index.js" and follow the prompts in your terminal
+Thing
 
 ---
 
@@ -53,7 +55,7 @@ Boilerplate Resources text here
 
 ## Tests:
 
-It works
+Thing
 
 ---
 
