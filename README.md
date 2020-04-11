@@ -1,12 +1,14 @@
-# homework8 by Julian Secomb 
+# Homework8 by Julian Secomb 
 
-[![HitCount](http://hits.dwyl.com/{jsecomb}/{homework8}.svg)](http://hits.dwyl.com/{jsecomb}/{homework8})
-![GitHub top language](https://img.shields.io/github/languages/top/jsecomb/homework8?style=flat-square)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jsecomb/homework8?style=flat-square)
+*Warning: you are currently reading a ReadMe of a ReadMe!*
+
+[![HitCount](http://hits.dwyl.com/{jsecomb}/{Homework8}.svg)](http://hits.dwyl.com/{jsecomb}/{Homework8})
+![GitHub top language](https://img.shields.io/github/languages/top/jsecomb/Homework8?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jsecomb/Homework8?style=flat-square)
 
 ## Description: 
 
-Thing
+Generates a pre-formatted readme.md file with some important information already filled in.
 
 ---
 
@@ -23,19 +25,25 @@ Thing
 
 ## Istallation: 
 
-Thing
+Instructions for installation:
+(1) Clone Repository to folder in local machine using link: https://github.com/jsecomb/Homework8.git 
+(2) Open index.js file in Terminal and run "NPM install" command to install dependencies.
+(3) Request API Access Token from Github and save for future reference.
 
 ---
 
 ## Usage: 
 
-Boilerplate Usage text here
+Instructions for use:
+(1) Open index.js in Terminal and run "node index.js" command.
+(2) Follow subsequent command line prompts, entering your Access Token when requested.
+(3) Once ReadMe.md file is generated, open it and add further information as desired.
 
 ---
 
 ## License: 
 
-Boilerplate License text here
+Please contact Julian Secomb (contact info below) regarding licensing.
 
 Copyright © 2020 Julian Secomb
 
@@ -43,19 +51,22 @@ Copyright © 2020 Julian Secomb
 
 ## Contributing:
 
-Boilerplate Contributing text here
+Please contact Julian Secomb (contact info below) regarding contributions.
 
 ---
 
 ## Resources:
 
-Boilerplate Resources text here
+This application was written in JavaScript using Node.js. It used the following NPM modules:
+* [Inquirer] - To ask questions and receive responses from the user.
+* [FileSystem] - To write the user's responses to a new .md file.
+* [Axios] - To access the user's Github API data.
 
 ---
 
 ## Tests:
 
-Thing
+No testing required beyond a simple test-run of the application.
 
 ---
 
