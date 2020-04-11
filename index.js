@@ -29,16 +29,6 @@ inquirer
             type: "input",
             message: "Please describe your project",
             name: "description"
-        },
-        {
-            type: "input",
-            message: "Please describe how to install your project",
-            name: "installation"
-        },
-        {
-            type: "input",
-            message: "Please describe the testing performed on your project",
-            name: "tests"
         }
     ])
     .then(function (response) {

@@ -25,19 +25,19 @@ ${response.description}
 
 ## Istallation: 
 
-${response.installation}
+(Describe how to install application here)
 
 ---
 
 ## Usage: 
 
-Boilerplate Usage text here
+(Describe how to use application here)
 
 ---
 
 ## License: 
 
-Boilerplate License text here
+Please contact ${profile.data.name} (contact info below) regarding licensing.
 
 Copyright © ${response.year} ${profile.data.name}
 
@@ -45,19 +45,19 @@ Copyright © ${response.year} ${profile.data.name}
 
 ## Contributing:
 
-Boilerplate Contributing text here
+Please contact ${profile.data.name} (contact info below) regarding contributions.
 
 ---
 
 ## Resources:
 
-Boilerplate Resources text here
+(Describe resources used here)
 
 ---
 
 ## Tests:
 
-${response.tests}
+(Describe resources used here)
 
 ---
 
