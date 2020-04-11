@@ -1,8 +1,8 @@
-# Test by Anthony Demott (null)
+# none by Julian Secomb (hoodooprojects@gmail.com)
   
 ## Description: 
 
-no
+none
 
 ---
 
@@ -19,7 +19,7 @@ no
 
 ## Istallation: 
 
-no
+none
 
 ---
 
@@ -33,7 +33,7 @@ Boilerplate Usage text here
 
 Boilerplate License text here
 
-Copyright © 2020 Anthony Demott
+Copyright © none Julian Secomb
 
 ---
 
@@ -51,12 +51,12 @@ Boilerplate Resources text here
 
 ## Tests:
 
-no
+none
 
 ---
 
 ## Questions:
 
-If you have any questions, please contact Anthony Demott at null;
+If you have any questions, please contact Julian Secomb at hoodooprojects@gmail.com;
 
-<img src="https://avatars2.githubusercontent.com/u/37944182?v=4" alt="java152001"/>
+<img src="https://avatars3.githubusercontent.com/u/59972103?v=4" alt="jsecomb"/>
