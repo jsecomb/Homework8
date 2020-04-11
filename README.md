@@ -25,19 +25,19 @@ Generates a pre-formatted readme.md file with some important information already
 
 ## Istallation: 
 
-Instructions for installation:
-(1) Clone Repository to folder in local machine using link: https://github.com/jsecomb/Homework8.git 
-(2) Open index.js file in Terminal and run "NPM install" command to install dependencies.
-(3) Request API Access Token from Github and save for future reference.
+>Instructions for installation:
+>>1. Clone Repository to folder in local machine using link: https://github.com/jsecomb/Homework8.git 
+>>2. Open index.js file in Terminal and run "NPM install" command to install dependencies.
+>>3. Request API Access Token from Github and save for future reference.
 
 ---
 
 ## Usage: 
 
-Instructions for use:
-(1) Open index.js in Terminal and run "node index.js" command.
-(2) Follow subsequent command line prompts, entering your Access Token when requested.
-(3) Once ReadMe.md file is generated, open it and add further information as desired.
+>Instructions for use:
+>>1. Open index.js in Terminal and run "node index.js" command.
+>>2. Follow subsequent command line prompts, entering your Access Token when requested.
+>>3. Once ReadMe.md file is generated, open it and add further information as desired.
 
 ---
 
@@ -57,10 +57,12 @@ Please contact Julian Secomb (contact info below) regarding contributions.
 
 ## Resources:
 
-This application was written in JavaScript using Node.js. It used the following NPM modules:
-* [Inquirer] - To ask questions and receive responses from the user.
-* [FileSystem] - To write the user's responses to a new .md file.
-* [Axios] - To access the user's Github API data.
+This application was written in JavaScript using Node.js. 
+
+>The following NPM modules were used:
+>>* Inquirer - To ask questions and receive responses from the user.
+>>* FileSystem - To write the user's responses to a new .md file.
+>>* Axios - To access the user's Github API data.
 
 ---
 
